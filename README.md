@@ -1,1 +1,1 @@
-MovieBot conditions of usage and utilisation page.
+faire npm i dans lecteurAudioWebComponent

@@ -8,11 +8,11 @@ class AudioPlaylist extends HTMLElement {
     this.activeMode = null;
 
     this.playlist = [
-      { title: "Roxas", src: "../assets/playlist/roxas.mp3" },
-      { title: "pdc", src: "../assets/playlist/pdc.mp3" },
-      { title: "example", src: "../assets/playlist/example.mp3" },
-      { title: "Sonic", src: "../assets/playlist/sonic.mp3" },
-    ];
+  { title: "Roxas", src: "PART3_WebComponentClient/assets/playlist/roxas.mp3" },
+  { title: "pdc", src: "PART3_WebComponentClient/assets/playlist/pdc.mp3" },
+  { title: "example", src: "PART3_WebComponentClient/assets/playlist/example.mp3" },
+  { title: "Sonic", src: "PART3_WebComponentClient/assets/playlist/sonic.mp3" },
+];
 
     // Pour shuffle
     this.shuffledPlaylist = [];
