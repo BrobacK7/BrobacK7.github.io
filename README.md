@@ -34,7 +34,7 @@ Le site est accessible via GitHub Pages :
 
 1. Installez les dépendances :
 ```bash
-cd PART3_WebComponentClient/lecteurAudioWebComponent
+cd PART3_WebComponentClient/lecteurAudioWebComponent/
 npm i
 ```
 
@@ -43,6 +43,8 @@ npm i
 cd PART3_WebComponentClient/lecteurAudioWebComponent/api
 node serveur.js
 ```
+
+3. Lancez index.html avec Live Server
 
 Le projet est maintenant accessible localement avec toutes les fonctionnalités, y compris le sampler.
 
